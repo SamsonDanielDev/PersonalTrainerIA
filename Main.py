@@ -1,3 +1,5 @@
+# No Google Colab, execute em uma célula apenas!👍🏻
+
 # instalações para o nosso projetinho!
 !pip install -q google.genai
 !pip install -q google-adk
