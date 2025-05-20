@@ -158,7 +158,7 @@ print("\n---------------------------------------\n")
 
 # --- Obter o objetivo do usuário ---
 
-print("❓ Por favor, digite os seus objetivos de treino, sinta-se livre: ")
+print("❓Por favor, digite os seus objetivos de treino, sinta-se livre: ")
 print("❓Fale para o agente se deseja ficar forte, resistente, perder gordura, etc.")
 print("❓Fale para o agente características suas, como peso, altura e biotipo.")
 print("❗Quanto mais específico, melhor serão os resultados, manda bala ❗")
